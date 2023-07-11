@@ -28,19 +28,19 @@ function AboutUs() {
   <p>I am a Junior Software Engineer currently in a bootcamp.</p>
 
   <ul class="team-icon">
-
+  {/* eslint-disable-next-line */}
     <li><a href="#" class="twitter">
       <i class="fa fa-twitter"></i>
     </a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="pinterest">
       <i class="fa fa-pinterest"></i>
     </a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="facebook">
       <i class="fa fa-facebook"></i>
     </a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="dribble">
       <i class="fa fa-dribbble"></i>
     </a></li>
@@ -60,19 +60,19 @@ function AboutUs() {
   <p>I am a Junior Software Engineer currently in a bootcamp.</p>
 
   <ul class="team-icon">
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="twitter">
       <i class="fa fa-twitter"></i>
     </a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="pinterest">
       <i class="fa fa-pinterest"></i>
     </a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="facebook">
       <i class="fa fa-facebook"></i>
     </a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="dribble">
       <i class="fa fa-dribbble"></i>
     </a></li>
@@ -96,13 +96,13 @@ function AboutUs() {
   <p>About me</p>
 
   <ul class="team-icon">
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="dribble"><i class="fa fa-dribbble"></i></a></li>
 
   </ul>
@@ -124,13 +124,13 @@ function AboutUs() {
   <p> Junior Engineer</p>
 
   <ul class="team-icon">
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-
+    {/* eslint-disable-next-line */}
     <li><a href="#" class="dribble">
       <i class="fa fa-dribbble"></i>
     </a></li>
@@ -156,13 +156,13 @@ function AboutUs() {
 <p>About me</p>
 
 <ul class="team-icon">
-
+    {/* eslint-disable-next-line */}
   <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-
+    {/* eslint-disable-next-line */}
   <li><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
-
+    {/* eslint-disable-next-line */}
   <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-
+    {/* eslint-disable-next-line */}
   <li><a href="#" class="dribble"><i class="fa fa-dribbble"></i></a></li>
 
 </ul>

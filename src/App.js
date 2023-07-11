@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+// import React, { useEffect, useRef, useState } from "react";
 
 import {
   ApolloClient,
@@ -13,7 +13,9 @@ import Navbar from './Components/Navbar';
 import Dashboard from "./pages/Dashboard";
 import Calories from "./pages/Calories";
 import { Register } from "./Components/Signup";
-import { BrowserRouter, Routes, Route, NavLink } from 'react-router-dom'
+import { BrowserRouter, Routes, Route,
+  //  NavLink 
+  } from 'react-router-dom'
 import Homepage from "./pages/Homepage";
 import AboutUs from "./pages/AboutUs";
 

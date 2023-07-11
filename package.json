@@ -48,7 +48,6 @@
     ]
   },
   "devDependencies": {
-    
     "@testing-library/react": "^14.0.0",
     "jest": "^27.5.1",
     "msw": "^1.2.2"

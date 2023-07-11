@@ -1,11 +1,13 @@
 
-import React, { useState, useEffect } from "react";
+// import React, { useState, useEffect } from "react";
 import dayjs from "dayjs";
 import { useQuery } from "@apollo/client";
 import { Column } from "@ant-design/plots";
 
 import { GET_MEAL_BY_USERNAME_AND_DATE } from "../utils/queries";
-import { getUsernameFromToken, getFormattedDate } from "../utils/helpers";
+import { getUsernameFromToken, 
+  // getFormattedDate 
+} from "../utils/helpers";
 
 const getTotalCalories = (data) => {
   let total = 0;

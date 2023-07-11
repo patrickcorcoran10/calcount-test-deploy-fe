@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
-import { Layout, Menu, Button } from 'antd';
+import { Layout, Menu, 
+  // Button 
+} from 'antd';
 import { Nav } from 'react-bootstrap';
 
 
@@ -8,7 +10,9 @@ import { Link } from 'react-router-dom';
 const { Header } = Layout;
 
 const NavBar = () => {
-  const [showModal, setShowModal] = useState(false);
+  const [
+    // showModal, 
+    setShowModal] = useState(false);
 
   return (
     <Layout className="layout">
